@@ -1,3 +1,7 @@
+# S3 Backup
+Docker image for backing up a MySQL database along with an arbitrary mounted directory (in most cases, probably the 
+site root).
+
 ### Environment Variables
 
 Required:
